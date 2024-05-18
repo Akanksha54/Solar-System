@@ -5,7 +5,8 @@
 
 This project aims to create a visualization of the solar system using React.js and Three.js. It includes models for the Sun, Earth, Moon, and the International Space Station (ISS), along with various assets and scenes.
 
-📽️ [Watch the Screencast](https://github.com/Akanksha54/Solar-System/assets/122151315/274c5088-b3ca-470d-b06a-70d97a035238)
+📽️ [Watch the DEMO]
+https://github.com/Akanksha54/Solar-System/assets/122151315/274c5088-b3ca-470d-b06a-70d97a035238
 
 ## Table of Contents
 
