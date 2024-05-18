@@ -1,11 +1,11 @@
 
 ---
 
-# Solar System Visualization Project
+# 🌌 Solar System Visualization Project
 
 This project aims to create a visualization of the solar system using React.js and Three.js. It includes models for the Sun, Earth, Moon, and the International Space Station (ISS), along with various assets and scenes.
 
-[Screencast from 2024-05-18 14-53-20.webm](https://github.com/Akanksha54/Solar-System/assets/122151315/274c5088-b3ca-470d-b06a-70d97a035238)
+📽️ [Watch the Screencast](https://github.com/Akanksha54/Solar-System/assets/122151315/274c5088-b3ca-470d-b06a-70d97a035238)
 
 ## Table of Contents
 
@@ -17,14 +17,12 @@ This project aims to create a visualization of the solar system using React.js a
 - [Contributing](#contributing)
 - [License](#license)
 
-
-
 ## Features
 
-- Visualization of the solar system with models for the Sun, Earth, Moon, and ISS.
-- React components for each celestial body and scenes.
-- Integration with Three.js for 3D rendering.
-- Asset management for textures and models.
+- 🪐 Visualization of the solar system with models for the Sun, Earth, Moon, and ISS.
+- ⚛️ React components for each celestial body and scenes.
+- 🎨 Integration with Three.js for 3D rendering.
+- 🖼️ Asset management for textures and models.
 
 ## Getting Started
 
@@ -61,12 +59,12 @@ Once the application is running, you can explore the solar system visualization 
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature`).
-6. Create a new Pull Request.
+1. 🍴 Fork the repository.
+2. 🔧 Create a new branch (`git checkout -b feature/your-feature`).
+3. 🛠️ Make your changes.
+4. 💬 Commit your changes (`git commit -am 'Add some feature'`).
+5. 📤 Push to the branch (`git push origin feature/your-feature`).
+6. 🔄 Create a new Pull Request.
 
 ## License
 
