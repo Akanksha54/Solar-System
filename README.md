@@ -31,13 +31,13 @@ This project aims to create a visualization of the solar system using React.js a
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/solar-system-visualization.git
+git clone https://github.com/Akanksha54/Solar-System
 ```
 
 Install dependencies:
 
 ```bash
-cd solar-system-visualization
+cd Solar-System
 npm install
 ```
 
